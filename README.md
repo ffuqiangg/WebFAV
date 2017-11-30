@@ -15,3 +15,4 @@
 - [iconmonstr](https://iconmonstr.com/) 专门提供黑白矢量图标，风格统一。提供 PNG,PSD,SVG,EPS 格式下载，可调颜色。
 - [Icons8](https://icons8.cn/) 图标数量丰富，颜色大小可调。提供 PNG,SVG,EPS,PDF 格式下载，PNG 两种大小可买免费下载。
 - [Unsplash](https://unsplash.com/) 无版权图片网站，都来自真实的摄影照片，分辨率高，设计感十足，每天更新10张。
+- [SplitShire](https://www.splitshire.com/) 免费分享高清摄影图片的网站，图片的类别很丰富，非常适合平面设计师使用。
