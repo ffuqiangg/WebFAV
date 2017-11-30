@@ -11,4 +11,4 @@
 - [Color Hunt](http://colorhunt.co/) 提供现成的配色方案，通过点赞数能直观的了解某个配色方案的收欢迎程度。
 - [LOL Color](https://www.webdesignrankings.com/resources/lolcolors/) 相比 Color Hunt 方案造型更加圆润可爱，但速度稍逊。
 - [freepik](https://www.freepik.com/) 免费提供各类型矢量设计素材源文件下载。
-- [processon](https://www.processon.com/) 在线流程图工具，可多人协作。可浏览他人的流程图并提供有各种类型模版。
+- [processon](https://www.processon.com/) 在线流程图工具，支持多人协作。可浏览他人的流程图并提供有各种类型模版。
