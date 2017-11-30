@@ -2,7 +2,7 @@
 
 - [OnTap](http://on.thisistap.com/stock-images/) 专为博客提供的免费图库服务。
 - [IconBros](https://www.iconbros.com/) 一些单色的线性图标，提供 PNG,SVG 格式下载。图标数量不算多但风格统一。
-- [Shields.io](http://shields.io/) 自动生成 github 项目状态的各种图标 -- ![](https://img.shields.io/badge/Shields-io-lightgrey.svg?style=flat)
+- [Shields.io](http://shields.io/) 自动生成 github 项目状态的各种图标 -- ![shields.io](https://img.shields.io/badge/Shields-io-lightgrey.svg?style=flat)
 - [腾讯Canvas](http://canvas.qq.com/) 企鹅家的图片设计工具，banner ,海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。
 - [智图](http://zhitu.isux.us/) 企鹅家的在线图片压缩转换工具。对比 minijpeg 之流胜在稳定连接快速。
 - [Iconfont](http://iconfont.cn/) 马云家的矢量图标库，提供 SVG,AI,PNG 格式下载，可调颜色和大小。
