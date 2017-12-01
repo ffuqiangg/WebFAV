@@ -18,3 +18,4 @@
 - [SplitShire](https://www.splitshire.com/) 免费分享高清摄影图片的网站，图片的类别很丰富，非常适合平面设计师使用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [JPGtoPDF](http://jpg2pdf.com/zh/) PDF格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [PSDfreebies](https://psdfreebies.com/) 免费下载各类型 PSD 源文件。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Fonts2u](https://zh.fonts2u.com/) 字体下载站。大量英文字体，少量中文字体。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
