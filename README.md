@@ -19,3 +19,4 @@
 - [JPGtoPDF](http://jpg2pdf.com/zh/) PDF格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [PSDfreebies](https://psdfreebies.com/) 免费下载各类型 PSD 源文件。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [Fonts2u](https://zh.fonts2u.com/) 字体下载站。大量英文字体，少量中文字体。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [草料二维码](https://cli.im/) 二维码在线生成器，拥有丰富的可调节选项。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
