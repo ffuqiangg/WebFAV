@@ -17,4 +17,4 @@
 - [Unsplash](https://unsplash.com/) 无版权图片网站，都来自真实的摄影照片，分辨率高，设计感十足，每天更新10张。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [SplitShire](https://www.splitshire.com/) 免费分享高清摄影图片的网站，图片的类别很丰富，非常适合平面设计师使用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [JPG to PDF](http://jpg2pdf.com/zh/) PDF格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
- 
+- [PSDfreebies](https://psdfreebies.com/) 免费下载各类型 PSD 源文件。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
