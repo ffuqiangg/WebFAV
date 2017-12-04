@@ -37,6 +37,6 @@
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [WPS Office](http://www.wps.cn/) - 完美的免费办公软件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
-- [Ccleaner](https://www.piriform.com/ccleaner/) - 系统清洁实用程序， 易于理解，对新手友好。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [CCleaner](https://www.piriform.com/ccleaner/) - 系统清洁实用程序， 易于理解，对新手友好。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
