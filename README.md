@@ -35,7 +35,7 @@
 - [Snipaste](https://zh.snipaste.com/) - Windows 上最好的截图标注软件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Listary](http://www.listary.com/) - Windows 资源管理器增强工具，功能丰富且实用。配合 Everything 食用风味更佳。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [坚果云](https://www.jianguoyun.com/) - 国内最好的同步盘工具，功能上专为办公场景优化。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
-- [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的zip压缩程序。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的 ZIP 压缩程序。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [WPS Office](http://www.wps.cn/) - 完美的免费办公软件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [CCleaner](https://www.piriform.com/ccleaner/) - 系统清洁实用程序， 易于理解，对新手友好。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
