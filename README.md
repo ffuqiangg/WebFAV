@@ -42,3 +42,9 @@
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Typora](https://typora.io/) - 或许是 Windows 平台最好的 Markdown 写作应用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+
+## 灵感来源
+
+- [Dribbble](https://dribbble.com/) - 设计师灵感交流平台。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Pinterest](https://www.pinterest.com/) - 瀑布流图片分享网站。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Behance](https://www.behance.net/) - Adobe 旗下的创意项目分享网站。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
