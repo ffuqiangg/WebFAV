@@ -41,3 +41,4 @@
 - [CCleaner](https://www.piriform.com/ccleaner/) - 系统清洁实用程序， 易于理解，对新手友好。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [Typora](https://typora.io/) - 或许是 Windows 平台最好的 Markdown 写作应用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
