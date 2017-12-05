@@ -10,8 +10,8 @@
 - [Color Hunt](http://colorhunt.co/) - 提供现成的配色方案，通过点赞数能直观的了解某个配色方案的收欢迎程度。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [LOL Color](https://www.webdesignrankings.com/resources/lolcolors/) - 相比 Color Hunt 方案造型更加圆润可爱，但速度稍逊。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [freepik](https://www.freepik.com/) - 免费提供各类型矢量设计素材源文件下载。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
-- [iconmonstr](https://iconmonstr.com/) - 专门提供黑白矢量图标，风格统一。提供 PNG,PSD,SVG,EPS 格式下载，可调颜色。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
-- [Icons8](https://icons8.cn/) - 图标数量丰富，颜色大小可调。提供 PNG,SVG,EPS,PDF 格式下载，PNG 两种大小可买免费下载。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [iconmonstr](https://iconmonstr.com/) - 专门提供黑白矢量图标，风格统一。提供 PNG , PSD , SVG , EPS 格式下载，可调颜色。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Icons8](https://icons8.cn/) - 图标数量丰富，颜色大小可调。提供 PNG , SVG , EPS , PDF 格式下载，PNG 两种大小可免费下载。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Unsplash](https://unsplash.com/) - 无版权图片网站，都来自真实的摄影照片，分辨率高，设计感十足，每天更新10张。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [SplitShire](https://www.splitshire.com/) - 免费分享高清摄影图片的网站，图片的类别很丰富，非常适合平面设计师使用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [PSDfreebies](https://psdfreebies.com/) - 免费下载各类型 PSD 源文件。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
@@ -19,8 +19,8 @@
 
 ## 在线工具
 
-- [Shields.io](http://shields.io/) - 自动生成 github 项目状态的各种图标。![shields.io](https://img.shields.io/badge/Shields-io-lightgrey.svg?style=flat "shields.io") ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
-- [腾讯Canvas](http://canvas.qq.com/) - 企鹅家的图片设计工具，banner ,海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [Shields.io](http://shields.io/) - 自动生成 github 项目各种状态的图标。![shields.io](https://img.shields.io/badge/Shields-io-lightgrey.svg?style=flat "shields.io") ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [腾讯Canvas](http://canvas.qq.com/) - 企鹅家的图片设计工具，banner ，海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [智图](http://zhitu.isux.us/) - 企鹅家的在线图片压缩转换工具。对比 minijpeg 之流胜在稳定连接快速。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [processon](https://www.processon.com/) - 在线流程图工具，支持多人协作。可浏览他人的流程图并提供有各种类型模版。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [JPGtoPDF](http://jpg2pdf.com/zh/) - PDF 格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
