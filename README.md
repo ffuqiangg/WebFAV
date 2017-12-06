@@ -16,6 +16,7 @@
 - [SplitShire](https://www.splitshire.com/) - 免费分享高清摄影图片的网站，图片的类别很丰富，非常适合平面设计师使用。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [PSDfreebies](https://psdfreebies.com/) - 免费下载各类型 PSD 源文件。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [Fonts2u](https://zh.fonts2u.com/) - 字体下载站。大量英文字体，少量中文字体。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [itmeo](https://webgradients.com/) - 过渡色配色网站。提供 CSS 代码，色号，PNG 文件下载。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 
 ## 在线工具
 
