@@ -27,6 +27,7 @@
 - [JPGtoPDF](http://jpg2pdf.com/zh/) - PDF 格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [草料二维码](https://cli.im/) - 二维码在线生成器，拥有丰富的可调节选项。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Picdiet](https://www.picdiet.com/zh-cn) - 极速的在线图片压缩，仅支持 JPG 格式，使用无任何限制。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [Smallpdf](https://smallpdf.com/cn) - 全能 PDF 在线工具。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 
 ## 常用软件
 
