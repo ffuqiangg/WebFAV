@@ -27,6 +27,7 @@
 - [processon](https://www.processon.com/) - 在线流程图工具，支持多人协作。可浏览他人的流程图并提供有各种类型模版。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [JPGtoPDF](http://jpg2pdf.com/zh/) - PDF 格式转换，可一次上传最多20个文件。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [草料二维码](https://cli.im/) - 二维码在线生成器，拥有丰富的可调节选项。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [TEC-IT](https://barcode.tec-it.com/zh/) - 在线条码生成器，可生成各种标准的条码及二维码。无修饰选项。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Picdiet](https://www.picdiet.com/zh-cn) - 极速的在线图片压缩，仅支持 JPG 格式，使用无任何限制。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Smallpdf](https://smallpdf.com/cn) - 全能 PDF 在线工具。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Convertio](https://convertio.co/zh/) - 在线文件转换器，视频、文档、图片转格式压缩。堪称全能。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
