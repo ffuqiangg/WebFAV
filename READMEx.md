@@ -1,6 +1,7 @@
 ## 图站
 
 - [Sex.com](http://www.sex.com/) - sex.com ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [AsmHentai](https://asmhentai.com/language/chinese/) - 中文在线漫画，彩漫、黑白、条漫均有。可迅雷批量下载。 可直连但代理速度更快。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 
 ## 视频站
 
