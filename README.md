@@ -55,3 +55,4 @@
 - [Dribbble](https://dribbble.com/) - 设计师创意交流平台。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [Pinterest](https://www.pinterest.com/) - 瀑布流图片分享网站。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [Behance](https://www.behance.net/) - Adobe 旗下的创意项目分享网站。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
+- [花瓣网](http://huaban.com/) - 中国版 Pinterest。
