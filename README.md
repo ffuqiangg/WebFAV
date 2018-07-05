@@ -22,7 +22,7 @@
 
 ## 在线工具
 
-- [Shields.io](http://shields.io/) - 自动生成 github 项目各种状态的图标。![shields.io](https://img.shields.io/badge/Shields-io-lightgrey.svg?style=flat "shields.io") ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Shields.io](http://shields.io/) - 自动生成 github 项目各种状态的图标。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [腾讯Canvas](http://canvas.qq.com/) - 企鹅家的图片设计工具，banner ，海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [智图](http://zhitu.isux.us/) - 企鹅家的在线图片压缩转换工具。对比 minijpeg 之流胜在稳定连接快速。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [processon](https://www.processon.com/) - 在线流程图工具，支持多人协作。可浏览他人的流程图并提供有各种类型模版。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
