@@ -11,6 +11,7 @@
 - [SpankBang](https://spankbang.com/) - UCG在线视频站。可在线播放JAV，番号直接搜索。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [Hello!AV Girls](https://www.helloavgirls.com/) - JAV 在线视频，速度不错可直连。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [Javbooks](https://jmvbt.com/) - 番号大全，内容详尽提供 bt 下载。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [JAVSEE](https://zh.javsee.xyz/) - 在线 JAV 视频站，可直连。分免费和 VIP 视频。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 
 ## 论坛
 
