@@ -13,6 +13,7 @@
 - [Javbooks](https://jmvbt.com/) - 番号大全，内容详尽提供 bt 下载。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [JAVSEE](https://zh.javsee.xyz/) - 在线 JAV 视频站，可直连。分免费和 VIP 视频。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [avgle](https://avgle.com/) - 在线 AV 视频，直连。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [AV.movie](http://av.movie/) - 免费 AV 在线视频。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 
 ## 论坛
 
