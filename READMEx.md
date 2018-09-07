@@ -3,6 +3,7 @@
 - [Sex.com](http://www.sex.com/) - sex.com ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [AsmHentai](https://asmhentai.com/language/chinese/) - 中文在线漫画，彩漫、黑白、条漫均有。可迅雷批量下载。 可直连但代理速度更快。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 - [无邪气](http://mujaki.blog.jp/) - 无邪气汉化组官方Blog。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif) 
+- [绅士漫画](https://www.wnacg.org/) - 在线本子，有汉化分类。提供打包下载。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif) 
 
 ## 视频站
 
