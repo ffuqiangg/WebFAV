@@ -17,6 +17,7 @@
 - [AV.movie](http://av.movie/) - 免费 AV 在线视频。 ![墙](https://github.com/ffuqiangg/WebFAV/raw/master/media/wall.png) ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [JavTube](https://javtube.cc/) - AV 资料库，可跳转在线播放(貌似播放器有点问题)。有中文分类，剧情分类。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif) 
 - [91JAV](http://91jav.com/) - 在线 AV 视频，直连速度不错。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [JAV TV](https://fjav.net) - 在线 AV 视频，可直连。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
 
 ## 论坛
 
