@@ -20,6 +20,7 @@
 - [优品PPT](http://www.ypppt.com/) - 一个有情怀的 PPT 模版下载网站。PPT 模版，素材齐全，质量也不错。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [下载字体](http://www.xiazaiziti.com/) - 简单粗暴的网站名字，网站页面干净，中文字体很丰富下载也很方便。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 - [KissPNG](https://www.kisspng.com/) - PNG 格式素材图下载，都是扣好的很方便。 ![英文](https://github.com/ffuqiangg/WebFAV/blob/master/media/us.gif)
+- [Pexels](https://www.pexels.com/zh-cn/) - 免费照片视频素材下载站。 ![中文](https://github.com/ffuqiangg/WebFAV/blob/master/media/cn.gif)
 
 ## 在线工具
 
