@@ -18,9 +18,11 @@
 - [JavTube](https://javtube.cc/) - AV 资料库，可跳转在线播放(貌似播放器有点问题)。有中文分类，剧情分类。
 - [91JAV](http://91jav.com/) - 在线 AV 视频，直连速度不错。
 - [JAV TV](https://fjav.net) - 在线 AV 视频，可直连。
+- [Jable.TV](https://jable.tv/) - 在线 AV 站，画质好有中文字幕类别。
 
 ## 论坛
 
 - [草榴](http://t66y.com/) - 这个应该就不用说明了吧。
 - ~~[上榴人士](http://caojh.com/) - 草榴论坛直连备胎。~~
 - ~~[驭女轩](http://www.ynxbbs.com/) - 小说，套图，视频，AV 应有尽有，部分板块需 VIP。~~
+- [色花堂-98堂](https://www.98rewer.me) - 特色是有大量中文外挂字幕和内嵌字幕视频供下载。
