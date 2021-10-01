@@ -37,7 +37,6 @@
 
 ## 常用软件
 
-- [XX-Net](https://github.com/XX-net/XX-Net) - 基于 GAE 的科学工具。
 - [Everything](https://www.voidtools.com/zh-cn/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [QuickLook](http://pooi.moe/QuickLook/) - 空格预览软件，支持多格式。效果类似 MacOS 预览。
 - [Snipaste](https://zh.snipaste.com/) - Windows 上最好的截图标注软件。
@@ -45,7 +44,7 @@
 - [坚果云](https://www.jianguoyun.com/) - 国内最好的同步盘工具，功能上专为办公场景优化。
 - [Bandizip](https://www.bandisoft.com/bandizip/) - 集轻量，快速与免费一体的 ZIP 压缩程序。
 - [WPS Office](http://www.wps.cn/) - 完美的免费办公软件。
-- [Notepad++](https://notepad-plus-plus.org/) - 一款支持多种编程语言的源码编辑器。
+- [Sublime Text](https://www.sublimetext.com/) - 一款支持多种编程语言的源码编辑器。
 - [CCleaner](https://www.piriform.com/ccleaner/) - 系统清洁实用程序， 易于理解，对新手友好。
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。
