@@ -19,6 +19,7 @@
 - [91JAV](http://91jav.com/) - 在线 AV 视频，直连速度不错。
 - [JAV TV](https://fjav.net) - 在线 AV 视频，可直连。
 - [Jable.TV](https://jable.tv/) - 在线 AV 站，画质好有中文字幕类别。
+- [MissAV](https://missav.com/) - 在线 AV 视频，中文字幕，AI 无码。
 
 ## 论坛
 
