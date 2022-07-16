@@ -49,7 +49,7 @@
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - 解除无法删除文件的锁定。
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。
 - [Typora](https://typora.io/) - 或许是 Windows 平台最好的 Markdown 写作应用。
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 在任务栏显示网速 cpu 内存占用情况。
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 在任务栏显示网速 cpu 内存占用等系统信息。
 
 ## 灵感来源
 
