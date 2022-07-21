@@ -50,6 +50,7 @@
 - [nTrun](http://www.ntrun.com/) - 基于 Win+R 的快速启动工具。
 - [Typora](https://typora.io/) - 或许是 Windows 平台最好的 Markdown 写作应用。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 在任务栏显示网速 cpu 内存占用等系统信息。
+- [uTools](https://u.tools/) - 跨平台效率工具，类似 MacOS 聚焦。
 
 ## 灵感来源
 
