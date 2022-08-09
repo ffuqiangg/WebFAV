@@ -32,7 +32,7 @@
 - [Smallpdf](https://smallpdf.com/cn) - 全能 PDF 在线工具。
 - [Convertio](https://convertio.co/zh/) - 在线文件转换器，视频、文档、图片转格式压缩。堪称全能。
 - [i❤PDF](https://www.ilovepdf.com/zh_cn) - PDF 在线转换工具，包含各种格式转换及 PDF 压缩，分割，合并，添加水印等工具。
-- [y2mate](https://y2mate.com/) - YouTube 下载工具，支持下载各种分辨率 mp4 视频(最高1080p)以及 mp3,m4a 格式音频文件。网址 youtube --> youtubepp 可以直接下载。
+- [y2mate](https://y2mate.com/) - YouTube 下载工具，支持下载各种分辨率 mp4 视频(最高1080p)以及 mp3,m4a 格式音频文件。网址 youtube > youtubepp 直接下载。
 - [Pixlr](https://pixlr.com/) - 在线图片编辑器，提供各种流行社交媒体模板。
 
 ## 常用软件
