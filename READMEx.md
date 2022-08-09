@@ -14,10 +14,10 @@
 - [Javbooks](https://jmvbt.com/) - 番号大全，内容详尽提供 bt 下载。
 - ~~[JAVSEE](https://zh.javsee.xyz/) - 在线 JAV 视频站，可直连。分免费和 VIP 视频。~~
 - [avgle](https://avgle.com/) - 在线 AV 视频，直连。
-- [AV.movie](http://av.movie/) - 免费 AV 在线视频。
+- ~~[AV.movie](http://av.movie/) - 免费 AV 在线视频。~~
 - [JavTube](https://javtube.cc/) - AV 资料库，可跳转在线播放(貌似播放器有点问题)。有中文分类，剧情分类。
-- [91JAV](http://91jav.com/) - 在线 AV 视频，直连速度不错。
-- [JAV TV](https://fjav.net) - 在线 AV 视频，可直连。
+- ~~[91JAV](http://91jav.com/) - 在线 AV 视频，直连速度不错。~~
+- ~~[JAV TV](https://fjav.net) - 在线 AV 视频，可直连。~~
 - [Jable.TV](https://jable.tv/) - 在线 AV 站，画质好有中文字幕类别。
 - [MissAV](https://missav.com/) - 在线 AV 视频，中文字幕，AI 无码。
 - [Hanime1.me](https://hanime1.me/) - 在线 H 动漫，中文字幕。
