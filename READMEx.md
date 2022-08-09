@@ -12,7 +12,7 @@
 - [SpankBang](https://spankbang.com/) - UCG在线视频站。可在线播放JAV，番号直接搜索。
 - [Hello!AV Girls](https://www.helloavgirls.com/) - JAV 在线视频，速度不错可直连。
 - [Javbooks](https://jmvbt.com/) - 番号大全，内容详尽提供 bt 下载。
-- [JAVSEE](https://zh.javsee.xyz/) - 在线 JAV 视频站，可直连。分免费和 VIP 视频。
+- ~~[JAVSEE](https://zh.javsee.xyz/) - 在线 JAV 视频站，可直连。分免费和 VIP 视频。~~
 - [avgle](https://avgle.com/) - 在线 AV 视频，直连。
 - [AV.movie](http://av.movie/) - 免费 AV 在线视频。
 - [JavTube](https://javtube.cc/) - AV 资料库，可跳转在线播放(貌似播放器有点问题)。有中文分类，剧情分类。
