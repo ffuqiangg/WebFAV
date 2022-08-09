@@ -21,6 +21,7 @@
 - [Jable.TV](https://jable.tv/) - 在线 AV 站，画质好有中文字幕类别。
 - [MissAV](https://missav.com/) - 在线 AV 视频，中文字幕，AI 无码。
 - [Hanime1.me](https://hanime1.me/) - 在线 H 动漫，中文字幕。
+- [HAYAV](https://hayav.com/) - 在线 AV 视频，中文字幕，多个播放源，视频提供国外网盘下载。
 
 ## 论坛
 
