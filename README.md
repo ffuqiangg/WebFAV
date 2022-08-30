@@ -1,4 +1,4 @@
-🖼## 素材收集
+## 🖼素材收集
 
 - [OnTap](http://on.thisistap.com/stock-images/) - 专为博客提供的免费图库服务。
 - [IconBros](https://www.iconbros.com/) - 一些单色的线性图标，提供 PNG , SVG 格式下载。图标数量不算多但风格统一。
@@ -20,7 +20,7 @@
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费照片视频素材下载站。
 - [Feather](https://feathericons.com/) - 黑白线框图标，可调整线条粗细及图标尺寸。全套提供 svg 格式下载和各种语法的网络调用。
 
-🔑## 在线工具
+## 🔑在线工具
 
 - [Shields.io](http://shields.io/) - 自动生成 github 项目各种状态的图标。
 - [腾讯Canvas](http://canvas.qq.com/) - 企鹅家的图片设计工具，banner ，海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。
@@ -36,7 +36,7 @@
 - [y2mate](https://y2mate.com/) - YouTube 下载工具，可下载 mp4 视频 (最高1080p) 以及 mp3,m4a 格式音频。youtube > youtubepp 直接下载。
 - [Pixlr](https://pixlr.com/) - 在线图片编辑器，提供各种流行社交媒体模板。
 
-💾## 常用软件
+## 💾常用软件
 
 - [Everything](https://www.voidtools.com/zh-cn/) - 最快的文件/文件夹搜索工具， 通过名称搜索。
 - [QuickLook](http://pooi.moe/QuickLook/) - 空格预览软件，支持多格式。效果类似 MacOS 预览。
@@ -53,7 +53,7 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 在任务栏显示网速 cpu 内存占用等系统信息。
 - [uTools](https://u.tools/) - 跨平台效率工具，类似 MacOS 聚焦。
 
-💡## 灵感来源
+## 💡灵感来源
 
 - [Dribbble](https://dribbble.com/) - 设计师创意交流平台。
 - [Pinterest](https://www.pinterest.com/) - 瀑布流图片分享网站。
