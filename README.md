@@ -18,7 +18,7 @@
 - [下载字体](http://www.xiazaiziti.com/) - 简单粗暴的网站名字，网站页面干净，中文字体很丰富下载也很方便。
 - [KissPNG](https://www.kisspng.com/) - PNG 格式素材图下载，都是扣好的很方便。
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费照片视频素材下载站。
-- [Feather](https://feathericons.com/) - 黑白线框图标，可调整线条粗细及图标尺寸。全套提供 svg 格式下载。
+- [Feather](https://feathericons.com/) - 黑白线框图标，可调整线条粗细及图标尺寸。全套提供 svg 格式下载和各种语法的网络调用。
 
 ## 在线工具
 
