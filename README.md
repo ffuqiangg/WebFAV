@@ -23,7 +23,6 @@
 ## 在线工具
 
 - [Shields.io](http://shields.io/) - 自动生成 github 项目各种状态的图标。
-- [腾讯Canvas](http://canvas.qq.com/) - 企鹅家的图片设计工具，banner ，海报，信息图表都能用，模版也不少。很小白，偷懒的时候可以用。
 - [processon](https://www.processon.com/) - 在线流程图工具，支持多人协作。可浏览他人的流程图并提供有各种类型模版。
 - [JPGtoPDF](http://jpg2pdf.com/zh/) - PDF 格式转换，可一次上传最多20个文件。
 - [草料二维码](https://cli.im/) - 二维码在线生成器，拥有丰富的可调节选项。
