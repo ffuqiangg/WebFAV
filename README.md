@@ -32,7 +32,7 @@
 - [Convertio](https://convertio.co/zh/) - 在线文件转换器，视频、文档、图片转格式压缩。堪称全能。
 - [i❤PDF](https://www.ilovepdf.com/zh_cn) - PDF 在线转换工具，包含各种格式转换及 PDF 压缩，分割，合并，添加水印等工具。
 - [y2mate](https://y2mate.com/) - YouTube 下载工具，可下载 mp4 视频 (最高1080p) 以及 mp3,m4a 格式音频。youtube > youtubepp 直接下载。
-- [Pixlr](https://pixlr.com/us/) - 在线图片编辑器，提供各种流行社交媒体模板。(中文界面为机翻，故采用英文界面)
+- [Pixlr](https://pixlr.com/us/) - 在线图片编辑器，提供各种流行社交媒体模板。(中文页面为机翻，链接是英文页面)
 
 ## 常用软件
 
