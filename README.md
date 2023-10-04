@@ -19,6 +19,7 @@
 - [KissPNG](https://www.kisspng.com/) - PNG 格式素材图下载，都是扣好的很方便。
 - [Pexels](https://www.pexels.com/zh-cn/) - 免费照片视频素材下载站。
 - [Feather](https://feathericons.com/) - 黑白线框图标，可调整线条粗细及图标尺寸。全套提供 svg 格式下载和各种语法的网络调用。
+- [Craftwork](https://icons.craftwork.design/) - 一套单色开源线性图标，线框和填充两种风格。
 
 ## 在线工具
 
