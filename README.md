@@ -51,7 +51,7 @@
 - [Typora](https://typora.io/) - 或许是 Windows 平台最好的 Markdown 写作应用。
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 在任务栏显示网速 cpu 内存占用等系统信息。
 - [uTools](https://u.tools/) - 跨平台效率工具，类似 MacOS 聚焦。
-
+- [Snapdrop](https://snapdrop.net/) - 跨平台文件传输，特点是两端都无需安装软件 app ，只需在同一局域网中访问网站即可，也无需注册登录。
 ## 灵感来源
 
 - [Dribbble](https://dribbble.com/) - 设计师创意交流平台。
