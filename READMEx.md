@@ -3,7 +3,7 @@
 - [Sex.com](http://www.sex.com/) - sex.com
 - [AsmHentai](https://asmhentai.com/language/chinese/) - 中文在线漫画，彩漫、黑白、条漫均有。可迅雷批量下载。 可直连但代理速度更快。
 - [无邪气](http://mujaki.blog.jp/) - 无邪气汉化组官方Blog。
-- [绅士漫画](https://www.wnacg.org/) - 在线本子，有汉化分类。提供打包下载。
+- [绅士漫画](https://www.wnacg.com/) - 在线本子，有汉化分类。提供打包下载。
 
 ## 视频站
 
