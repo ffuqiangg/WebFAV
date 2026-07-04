@@ -14,7 +14,7 @@
 - [avgle](https://avgle.com/) - 在线 AV 视频，直连。
 - [JavTube](https://javtube.cc/) - AV 资料库，可跳转在线播放(貌似播放器有点问题)。有中文分类，剧情分类。
 - [Jable.TV](https://jable.tv/) - 在线 AV 站，画质好有中文字幕类别。
-- [MissAV](https://missav.com/) - 在线 AV 视频，中文字幕，AI 无码。
+- [MissAV](https://missav.ai/) - 在线 AV 视频，中文字幕，AI 无码。
 - [Hanime1.me](https://hanime1.me/) - 在线 H 动漫，中文字幕。
 - [HAYAV](https://hayav.com/) - 在线 AV 视频，中文字幕，多个播放源，视频提供国外网盘下载。
 
